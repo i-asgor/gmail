@@ -14,17 +14,17 @@ Firstly create Google OAuth2 keys
 8. Get client id and client secret
 9. Save it in a safe place
 
-We'll do everything in main.go file:
+# We'll do everything in main.go file:
 
 1. /
 2. /login
 3. /callback
 
-Initial handlers and OAuth2 config
+# Initial handlers and OAuth2 config
 1. go get golang.org/x/oauth2
 2. go get cloud.google.com/go/compute/metadata
 
-Test it
+# Test and Run
 # go run main.go
 
 
