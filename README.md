@@ -25,7 +25,7 @@ Initial handlers and OAuth2 config
 2. go get cloud.google.com/go/compute/metadata
 
 Test it
-go run main.go
+# go run main.go
 
 
 User information, messages, labels, drafts can be easily viewed using GoLang through Gmail API.
