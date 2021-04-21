@@ -25,7 +25,7 @@ Firstly create Google OAuth2 keys
 2. go get cloud.google.com/go/compute/metadata
 
 # Test and Run
-# go run main.go
+ go run main.go
 
 
 User information, messages, labels, drafts can be easily viewed using GoLang through Gmail API.
