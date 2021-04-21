@@ -28,4 +28,4 @@ Firstly create Google OAuth2 keys
  go run main.go
 
 
-User information, messages, labels, drafts can be easily viewed using GoLang through Gmail API.
+User information, messages, labels, drafts are easily accessible using Golang through Gmail API.
