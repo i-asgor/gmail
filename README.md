@@ -3,7 +3,7 @@
 Implement your own authentication.
 
 Firstly create Google OAuth2 keys
-Go to https://console.cloud.google.com/apis/dashboard
+# Go to https://console.cloud.google.com/apis/dashboard
 1. Create new project
 2. Enable API & Services 
 3. Welcome to the API Library
