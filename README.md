@@ -21,8 +21,9 @@ Firstly create Google OAuth2 keys
 3. /callback
 
 # Initial handlers and OAuth2 config
-1. go get golang.org/x/oauth2
-2. go get cloud.google.com/go/compute/metadata
+1. go get golang.org/x/oauth2/google
+2. go get google.golang.org/api/gmail/v1
+
 
 # Test and Run
  go run main.go
