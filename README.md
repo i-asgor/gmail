@@ -14,7 +14,7 @@ Firstly create Google OAuth2 keys
 8. Get client id and client secret
 9. Save it in a safe place
 
-We'll do everything in main.go file, and register 3 URL handlers:
+We'll do everything in main.go file:
 
 1. /
 2. /login
