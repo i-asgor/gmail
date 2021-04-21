@@ -1,6 +1,6 @@
 # gmail OAuth2 in Go
 
-This is implement your own authentication.
+Implement your own authentication.
 
 Firstly create Google OAuth2 keys
 Go to https://console.cloud.google.com/apis/dashboard
