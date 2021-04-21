@@ -21,8 +21,8 @@ We'll do everything in main.go file, and register 3 URL handlers:
 3. /callback
 
 Initial handlers and OAuth2 config
-go get golang.org/x/oauth2
-go get cloud.google.com/go/compute/metadata
+1. go get golang.org/x/oauth2
+2. go get cloud.google.com/go/compute/metadata
 
 Test it
 go run main.go
